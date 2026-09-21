@@ -1,2 +1,2 @@
 # The-Red-Death 🩸☠️
-Fork Bomb scripts for different operating systems
+Fork Bomb scripts for DoSing different operating systems
