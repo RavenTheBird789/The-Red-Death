@@ -1,6 +1,8 @@
 # The-Red-Death 🩸☠️
 Fork Bomb scripts for DoSing different operating systems
 
+![Alt Text](images/20260921_192638.jpg)
+
 Prerequisites:
 1. Ensure the latest version of python in installed in your terminal (python 3.x)
 2. Install the necessary software to download and execute the scripts contained within the repository in a virtual machine (Oracle VirtualBox or VMWare are recommended)
