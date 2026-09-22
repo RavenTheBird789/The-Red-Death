@@ -10,4 +10,4 @@ Prerequisites:
 Installation & Execution:
 * To install, simply type "git clone https://github.com/RavenTheBird789/The-Red-Death" in your terminals command line
 * To run, simply type "python3 red_death.py" in your terminals command line or use the alias command to create a shortcut to run the program in your terminal such as "alias zn1="python3 red_death.py""
-* Alternatively, if you're using a windows operating system/virtual machine, you can simply click on the "red_death_ZN1.bat" file
+* Alternatively, if you're using a windows operating system/virtual machine, you can simply click on the [red_death_ZN1.bat](red_death_ZN1.bat) file
