@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # The Red Death Fork-Bomb Script
 # USE WITH CAUTION
 # Oracle VirtualBox or VMWare Recommended
