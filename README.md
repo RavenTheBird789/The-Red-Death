@@ -1,4 +1,4 @@
-# The-Red-Death 🩸☠️
+# The Red Death 🩸☠️
 Fork Bomb scripts for DoSing different operating systems
 
 ![Alt Text](images/20260921_192638.jpg)
